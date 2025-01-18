@@ -1,0 +1,144 @@
+.nav1{
+    font-size: 2em;
+    height: 59px;
+    width: 1290px;
+    background-color: #f44336;
+}
+.w3-bar-item w3-button w3-padding-large w3-white{
+    font-size: 30px;
+}
+#nav2:hover{
+    background-color: #f44336;
+}
+.nav2{
+    background-color: #f1f1f1;
+}
+#nav3{
+    background-color: white;
+    border: none;
+    height: 60px;
+    width: 100px;
+    font-family: monospace;
+    font-size: 20px;
+    
+}
+#nav3:hover{
+    background-color: rgb(188, 180, 180);
+}
+#nav4{
+    background-color: #f44336;
+    border: none;
+    height: 60px;
+    color: #f1f1f1;
+    width: 100px;
+    font-family: monospace;
+    font-size: 20px;
+    margin-left: -11px;
+    color: #f1f1f1;
+
+}
+#nav4:hover{
+    background-color: #f1f1f1;
+    color: black;
+}
+.nav5{
+   height: 450px;
+   width: 1290px;
+   background-color: #f44336;
+   margin-top: -20px;
+}
+#nav6{
+    color: #f1f1f1;
+    font-size: 70px;
+    margin-top: 60px;
+    margin-left: 400px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#nav7{
+    margin-left: 470px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #f1f1f1;
+    font-size: 30px;
+}
+#nav8{
+    margin-left: 500px;
+    font-size: 20px;
+    color: #f1f1f1;
+    background-color: black;
+    border: none;
+    height: 50px;
+    width: 170px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#nav8:hover{
+    background-color: silver;
+    color: black;
+}
+#nav9{
+    margin-left: 200px;
+}
+#nav10{
+    width: 650px;
+    margin-left: 200px;
+    font-size: 15px;
+}
+#nav11{
+    font-size: 200px;
+    margin-left: 1000px;
+    margin-top: -700px;
+}
+#nav12{
+    width: 650px;
+    margin-left: 200px;
+    font-size: 14px;
+    margin-top: -50px;
+    color: grey;
+}
+#nav13{
+    background-color: #f1f1f1;
+    height: 500px;
+    width: 1290px;
+}
+.nav14{
+    text-align: center;
+    font-size: 40px;
+}
+#nav15{
+    text-align: center;
+    margin-left: 520px;
+    font-size: 17px;
+    width: 700px;
+   
+}
+#nav16{
+    font-size: 200px;
+    margin-left: 250px;
+    margin-top: -700px;
+}
+#nav17{
+    width: 650px;
+    margin-left: 540px;
+    font-size: 14px;
+    margin-top: -50px;
+    color: grey;
+}
+#nav18{
+    color: grey;
+}
+#nav19{
+    margin-left: 560px;
+    color: grey;
+}
+#nav20{
+    font-size: 14px;
+    margin-left: 560px;
+    color: grey;
+}
+
+#nav21{
+    font-size: 14px;
+    margin-left: 650px;
+    color: grey;
+    margin-top: -30px;
+    text-align: center;
+}
